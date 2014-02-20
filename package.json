@@ -1,13 +1,8 @@
 {
-  "name": "contains-component",
+  "name": "nami-doc-contains",
+  "description": "Checks whether an element is in an array",
   "version": "1.0.0",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "max": "index.js"
-    }
-  }
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
 }
